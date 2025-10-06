@@ -1,0 +1,16 @@
+.globalnav {
+    background-color: #333;
+}
+html {
+    background-color: aqua;
+}
+.heading-color {
+    color: green;
+    border-width: 10px;
+    border-color: purple;
+    border-style: solid;
+    padding: 10px;
+}
+.localnav {
+    background-color: lightgrey;
+}
